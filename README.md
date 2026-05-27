@@ -73,10 +73,11 @@ Attributes used: `placeholder`, `required`, `autofocus`
 - Used Chrome/Edge DevTools for DOM inspection
 - Console debugging and JS breakpoints
 - Fixed image path issues during development
-
----
-
+  
+````markdown
 ## 📁 Folder Structure
+
+```
 Community-Event-Portal/
 │
 ├── index.html
@@ -95,9 +96,9 @@ Community-Event-Portal/
 │   └── MyHome.png
 │
 └── videos/
-  └── community-event.mp4
-
----
+    └── community-event.mp4
+```
+````
 
 ## 🚀 How to Run
 
